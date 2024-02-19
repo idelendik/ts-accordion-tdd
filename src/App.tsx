@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Collapse, CollapseItem } from "./Collapse/Collapse";
+import { Collapse, CollapseItem } from "./Collapse";
 
 const contentStyles = {
   height: 300,
